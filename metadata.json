@@ -1,0 +1,5 @@
+{
+  "name": "Pharos Futures Exchange",
+  "description": "A professional decentralized futures trading exchange application built on the Pharos Network testnet. It features a dark, ice-themed UI with real-time candlestick charts, leverage trading, and uses the native PHRS token for all operations.",
+  "requestFramePermissions": []
+}
